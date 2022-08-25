@@ -15,4 +15,4 @@ Send or share quote directly
 
 Screenshots:
 
-![Alt text](/screenshots/by_random.png?raw=true | height=200 "Random Quote Feeds")
+![Alt text](/screenshots/by_random.png "Random Quote Feeds")
