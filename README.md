@@ -12,3 +12,7 @@ Search quotes by keywords, tag and/or autor
 Save your favourite quotes
 
 Send or share quote directly
+
+Screenshots:
+
+![Alt text](/screenshots/by_random.png?raw=true "Random Quote Feeds")
